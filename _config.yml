@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: ./js/packages/web
+source: js/packages/web
 incremental: false
 highlighter: rouge
 gist:
