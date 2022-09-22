@@ -118,7 +118,6 @@ export const LogoLink = () => {
       
        <img src={'/logo_nftmarket02.svg'} /> 
 
-
     </Link>
   );
 };
