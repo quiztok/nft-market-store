@@ -38,8 +38,8 @@ export const AuctionListView = () => {
   return (
     <>
       <Banner
-        src="/main-banner.svg"
-        headingText="The amazing world of Quiztok NFT."
+        src="/main-banner.png"
+        headingText="Create exclusive NFT in Quiztok NFT."
         subHeadingText="Buy exclusive Quiztok NFTs."
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
         useBannerBg
